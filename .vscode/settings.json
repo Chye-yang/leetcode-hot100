@@ -3,5 +3,7 @@
         "vector": "cpp",
         "stack": "cpp"
     },
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "github.copilot.editor.enableAutoCompletions": false,
+    "files.autoSave": "onFocusChange"
 }

@@ -21,6 +21,7 @@ public:
         //         return headA;
         //     }
         ListNode *curA = headA, *curB = headB;
+        
         if (curA == nullptr || curB == nullptr)
         {
             return nullptr;

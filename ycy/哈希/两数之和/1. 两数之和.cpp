@@ -5,7 +5,7 @@
 #include <unordered_map>
 
 using namespace std;
-
+//O(n)写法
 class Solution
 {
 public:
@@ -20,8 +20,8 @@ public:
 
             auto it=map.find(target-nums[i]);
 
-            if(it!=map.end()){
-                return {i,it.second};
+            if(it!=map.end() && it->second!=i){
+                return {i,it->second};
             }
 
         }

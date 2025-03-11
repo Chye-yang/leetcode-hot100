@@ -10,7 +10,8 @@
         "list": "cpp",
         "xhash": "cpp",
         "xstring": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "unordered_set": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled",
     "github.copilot.editor.enableAutoCompletions": false,

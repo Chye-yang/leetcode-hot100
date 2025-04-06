@@ -6,6 +6,9 @@
  */
 
 // @lc code=start
+#include<stack>
+using namespace std;
+
 class MinStack {
 public:
     stack<int> st1;

@@ -14,7 +14,8 @@
         "unordered_set": "cpp",
         "ios": "cpp",
         "xiosbase": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "algorithm": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled",
     "github.copilot.editor.enableAutoCompletions": false,

@@ -11,7 +11,13 @@
         "xhash": "cpp",
         "xstring": "cpp",
         "xutility": "cpp",
-        "unordered_set": "cpp"
+        "unordered_set": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "numeric": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "cstdlib": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled",
     "github.copilot.editor.enableAutoCompletions": false,

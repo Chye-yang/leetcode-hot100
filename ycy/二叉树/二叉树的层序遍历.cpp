@@ -45,3 +45,15 @@ public:
         return res;
     }
 };
+
+
+
+return 1 + max(heightTree(p->left),heightTree(p->right));
+
+a=heightTree(p->left)  3
+
+b=heightTree(p->right)  2
+
+c=max（a+b）+1；   
+
+return c 
